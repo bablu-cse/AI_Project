@@ -1,1 +1,6 @@
-requirements.txt
+Flask
+pandas
+numpy
+scikit-learn
+matplotlib
+gunicorn
